@@ -1,0 +1,8 @@
+type_client;categorie;lundi;mardi;mercredi;jeudi;vendredi;;sales;coef;;JOUR;COEF;Commentaire
+particulier;hat-snapback;1;10;100;1000;10000;;202010;0,5;;21/07/2020;0,7;réajustement
+particulier;hat-snapback;2;20;200;2000;20000;;202011;0,5;;22/07/2020;0,7;réajustement
+particulier;hat-snapback;3;30;300;3000;30000;;202012;0,5;;23/07/2020;0,7;réajustement
+particulier;hat-snapback;4;40;400;4000;40000;;202013;0,5;;24/07/2020;0,7;réajustement
+particulier;hat-snapback;5;50;500;5000;50000;;202014;0,5;;;;
+particulier;hat-snapback;6;60;600;6000;60000;;;;;;;
+particulier;hat-snapback;7;70;700;7000;70000;;;;;;;
